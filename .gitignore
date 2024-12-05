@@ -1,0 +1,5 @@
+# Ignorar a pasta .venv
+.venv/
+
+# Ignorar diretórios de cache
+__pycache__/
